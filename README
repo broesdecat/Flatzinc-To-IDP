@@ -1,0 +1,3 @@
+fz2idp is a program to transform input in the flatzinc constraint programming language into input in the idp language, version of the languages current at May 2011.
+
+IMPORTANT: the transformation should maintain valid input, but might throw an error on invalid input or transform invalid flatzinc into invalid idp. It will never transform valid into invalid input or vice-versa. 

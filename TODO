@@ -1,0 +1,4 @@
+Still to be done:
+	support for floats
+	checking for double declarations (some handled by the grounder)
+	clean up the code (command pattern most likely)
